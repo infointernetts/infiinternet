@@ -83,15 +83,6 @@ export default function ContactPage() {
               </p>
             </GlassCard>
           </div>
-                </div>
-                <button
-                  type="submit"
-                  className="w-full px-6 py-3 bg-accent hover:bg-accent/90 text-accent-foreground font-semibold rounded-lg transition-colors"
-                >
-                  Schedule Consultation
-                </button>
-              </form>
-            </GlassCard>
 
           <div className="max-w-3xl mx-auto">
             <GlassCard className="p-8" glow="purple">
